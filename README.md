@@ -7,6 +7,9 @@
 
 > 📦 [下载完整源码（ZIP）](practical-mini-projects.zip)｜解压后可分别复制 `projects/` 下的三个目录。仓库页面目前提供项目总览，完整目录、封面、截图和测试都在 ZIP 中。
 
+**在线查看核心源码**：[决策规则](decision.mjs) · [CSV 解析与校验](csv.mjs) · [链接巡检 CLI](link_auditor.py)。完整网页、样本、测试与逐项目 README 请下载上方 ZIP。
+
+
 ## 项目一：Decision Notebook｜决策记录本
 
 **场景**：只有两周时间做求职作品，需要比较不同方案。输入候选方案的证据与权重，查看推荐结果；依据不足时允许暂缓结论。
